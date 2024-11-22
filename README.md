@@ -1,6 +1,6 @@
 ## Hi there 👋, iam KalfinSyah
 
-An independent programmer with a passion for tech—especially mobile development, networking, and artificial intelligence. I'm always up for cool collaborations, so feel free to hit me up at Gmail! Let's build something awesome together!
+An independent programmer with a passion for tech—especially mobile development. I'm always up for cool collaborations, so feel free to hit me up at Gmail! Let's build something awesome together!
 
 ### Github Statistic
 <p align="left">
