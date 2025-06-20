@@ -4,8 +4,7 @@ An independent programmer with a passion for tech—especially mobile developmen
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KalfinSyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/KalfinSyah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KalfinSyah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
